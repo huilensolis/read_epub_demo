@@ -3,6 +3,7 @@
 this is a test next js app to make a functional demo of an ebook reader, parsing epub files.
 
 download example epub files [from here](https://www.ideal-group.org/cris-archives/sample_epub3_ebooks.htm)
+interesting library (probably we will build our own parser, but it's a possibility to use this library) [epub-to-text](https://github.com/Projet-TAMIS/epub-to-text)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
