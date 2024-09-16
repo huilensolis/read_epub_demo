@@ -1,3 +1,7 @@
+# this is not a serious project, just a functional test
+
+this is a test next js app to make a functional demo of an ebook reader, parsing epub files.
+
 download example epub files [from here](https://www.ideal-group.org/cris-archives/sample_epub3_ebooks.htm)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
